@@ -1,0 +1,20 @@
+img {
+    width: 40%;
+}
+
+table,
+th,
+td {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.button {
+    width: 60%;
+    text-align: center;
+}
